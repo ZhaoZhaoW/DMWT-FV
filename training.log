@@ -1,0 +1,300 @@
+2025-05-19 11:16:44 [INFO] Epoch 1/100 | Train Loss: 27.1356 | Train Acc: 73.89%
+2025-05-19 11:16:44 [INFO] Validation Acc: 86.94%
+
+2025-05-19 11:16:44 [INFO] Epoch 2/100 | Train Loss: 19.3331 | Train Acc: 87.67%
+2025-05-19 11:16:44 [INFO] Validation Acc: 90.42%
+
+2025-05-19 11:16:44 [INFO] Epoch 3/100 | Train Loss: 14.1949 | Train Acc: 90.87%
+2025-05-19 11:16:44 [INFO] Validation Acc: 92.92%
+
+2025-05-19 11:16:44 [INFO] Epoch 4/100 | Train Loss: 11.1032 | Train Acc: 93.02%
+2025-05-19 11:16:44 [INFO] Validation Acc: 94.03%
+
+2025-05-19 11:16:44 [INFO] Epoch 5/100 | Train Loss: 9.0372 | Train Acc: 94.41%
+2025-05-19 11:16:44 [INFO] Validation Acc: 95.42%
+
+2025-05-19 11:16:44 [INFO] Epoch 6/100 | Train Loss: 7.4329 | Train Acc: 95.73%
+2025-05-19 11:16:44 [INFO] Validation Acc: 95.69%
+
+2025-05-19 11:16:44 [INFO] Epoch 7/100 | Train Loss: 6.2178 | Train Acc: 96.42%
+2025-05-19 11:16:44 [INFO] Validation Acc: 96.11%
+
+2025-05-19 11:16:44 [INFO] Epoch 8/100 | Train Loss: 5.2595 | Train Acc: 97.12%
+2025-05-19 11:16:44 [INFO] Validation Acc: 96.11%
+
+2025-05-19 11:16:44 [INFO] Epoch 9/100 | Train Loss: 4.5225 | Train Acc: 97.64%
+2025-05-19 11:16:44 [INFO] Validation Acc: 96.53%
+
+2025-05-19 11:16:44 [INFO] Epoch 10/100 | Train Loss: 3.8912 | Train Acc: 98.23%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:45 [INFO] Epoch 11/100 | Train Loss: 3.4043 | Train Acc: 98.61%
+2025-05-19 11:16:45 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:45 [INFO] Epoch 12/100 | Train Loss: 2.9885 | Train Acc: 98.96%
+2025-05-19 11:16:45 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:45 [INFO] Epoch 13/100 | Train Loss: 2.6748 | Train Acc: 99.03%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:45 [INFO] Epoch 14/100 | Train Loss: 2.3523 | Train Acc: 99.20%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.36%
+
+2025-05-19 11:16:45 [INFO] Epoch 15/100 | Train Loss: 2.0986 | Train Acc: 99.38%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.36%
+
+2025-05-19 11:16:45 [INFO] Epoch 16/100 | Train Loss: 1.9019 | Train Acc: 99.27%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:45 [INFO] Epoch 17/100 | Train Loss: 1.7002 | Train Acc: 99.44%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.36%
+
+2025-05-19 11:16:45 [INFO] Epoch 18/100 | Train Loss: 1.5540 | Train Acc: 99.38%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:45 [INFO] Epoch 19/100 | Train Loss: 1.4034 | Train Acc: 99.62%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:45 [INFO] Epoch 20/100 | Train Loss: 1.2809 | Train Acc: 99.62%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:45 [INFO] Epoch 21/100 | Train Loss: 1.1685 | Train Acc: 99.69%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:45 [INFO] Epoch 22/100 | Train Loss: 1.0697 | Train Acc: 99.76%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:45 [INFO] Epoch 23/100 | Train Loss: 0.9743 | Train Acc: 99.86%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.36%
+
+2025-05-19 11:16:45 [INFO] Epoch 24/100 | Train Loss: 0.8985 | Train Acc: 99.79%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:45 [INFO] Epoch 25/100 | Train Loss: 0.8250 | Train Acc: 99.90%
+2025-05-19 11:16:45 [INFO] Validation Acc: 97.50%
+
+2025-05-19 11:16:46 [INFO] Epoch 26/100 | Train Loss: 0.7660 | Train Acc: 99.86%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:46 [INFO] Epoch 27/100 | Train Loss: 0.7132 | Train Acc: 99.90%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 28/100 | Train Loss: 0.6513 | Train Acc: 99.90%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 29/100 | Train Loss: 0.6105 | Train Acc: 99.93%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 30/100 | Train Loss: 0.5609 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 31/100 | Train Loss: 0.5180 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 32/100 | Train Loss: 0.4845 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:46 [INFO] Epoch 33/100 | Train Loss: 0.4518 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 34/100 | Train Loss: 0.4337 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.22%
+
+2025-05-19 11:16:46 [INFO] Epoch 35/100 | Train Loss: 0.3982 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:46 [INFO] Epoch 36/100 | Train Loss: 0.3703 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:46 [INFO] Epoch 37/100 | Train Loss: 0.3483 | Train Acc: 100.00%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:46 [INFO] Epoch 38/100 | Train Loss: 0.3264 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:46 [INFO] Epoch 39/100 | Train Loss: 0.3098 | Train Acc: 100.00%
+2025-05-19 11:16:46 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:46 [INFO] Epoch 40/100 | Train Loss: 0.2917 | Train Acc: 99.97%
+2025-05-19 11:16:46 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:46 [INFO] Epoch 41/100 | Train Loss: 0.2748 | Train Acc: 100.00%
+2025-05-19 11:16:46 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:47 [INFO] Epoch 42/100 | Train Loss: 0.2572 | Train Acc: 99.97%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:47 [INFO] Epoch 43/100 | Train Loss: 0.2434 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:47 [INFO] Epoch 44/100 | Train Loss: 0.2302 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 97.08%
+
+2025-05-19 11:16:47 [INFO] Epoch 45/100 | Train Loss: 0.2180 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.94%
+
+2025-05-19 11:16:47 [INFO] Epoch 46/100 | Train Loss: 0.2064 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.53%
+
+2025-05-19 11:16:47 [INFO] Epoch 47/100 | Train Loss: 0.1965 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:47 [INFO] Epoch 48/100 | Train Loss: 0.1851 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:47 [INFO] Epoch 49/100 | Train Loss: 0.1779 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:47 [INFO] Epoch 50/100 | Train Loss: 0.1672 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:47 [INFO] Epoch 51/100 | Train Loss: 0.1599 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:47 [INFO] Epoch 52/100 | Train Loss: 0.1521 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:47 [INFO] Epoch 53/100 | Train Loss: 0.1448 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:47 [INFO] Epoch 54/100 | Train Loss: 0.1383 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:47 [INFO] Epoch 55/100 | Train Loss: 0.1304 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.53%
+
+2025-05-19 11:16:47 [INFO] Epoch 56/100 | Train Loss: 0.1255 | Train Acc: 100.00%
+2025-05-19 11:16:47 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 57/100 | Train Loss: 0.1193 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:48 [INFO] Epoch 58/100 | Train Loss: 0.1144 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 59/100 | Train Loss: 0.1093 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 60/100 | Train Loss: 0.1047 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 61/100 | Train Loss: 0.0997 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:48 [INFO] Epoch 62/100 | Train Loss: 0.0954 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 63/100 | Train Loss: 0.0917 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 64/100 | Train Loss: 0.0881 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:48 [INFO] Epoch 65/100 | Train Loss: 0.0840 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 66/100 | Train Loss: 0.0806 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 67/100 | Train Loss: 0.0776 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.67%
+
+2025-05-19 11:16:48 [INFO] Epoch 68/100 | Train Loss: 0.0744 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:48 [INFO] Epoch 69/100 | Train Loss: 0.0711 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:48 [INFO] Epoch 70/100 | Train Loss: 0.0680 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:48 [INFO] Epoch 71/100 | Train Loss: 0.0661 | Train Acc: 100.00%
+2025-05-19 11:16:48 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 72/100 | Train Loss: 0.0627 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 73/100 | Train Loss: 0.0609 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 74/100 | Train Loss: 0.0585 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 75/100 | Train Loss: 0.0565 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 76/100 | Train Loss: 0.0543 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 77/100 | Train Loss: 0.0521 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 78/100 | Train Loss: 0.0506 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 79/100 | Train Loss: 0.0485 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 80/100 | Train Loss: 0.0466 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 81/100 | Train Loss: 0.0450 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 82/100 | Train Loss: 0.0433 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 83/100 | Train Loss: 0.0417 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 84/100 | Train Loss: 0.0401 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 85/100 | Train Loss: 0.0387 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:49 [INFO] Epoch 86/100 | Train Loss: 0.0373 | Train Acc: 100.00%
+2025-05-19 11:16:49 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 87/100 | Train Loss: 0.0361 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 88/100 | Train Loss: 0.0349 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 89/100 | Train Loss: 0.0338 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 90/100 | Train Loss: 0.0326 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 91/100 | Train Loss: 0.0314 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 92/100 | Train Loss: 0.0302 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 93/100 | Train Loss: 0.0295 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 94/100 | Train Loss: 0.0285 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 95/100 | Train Loss: 0.0274 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 96/100 | Train Loss: 0.0265 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 97/100 | Train Loss: 0.0257 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 98/100 | Train Loss: 0.0248 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 99/100 | Train Loss: 0.0241 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
+2025-05-19 11:16:50 [INFO] Epoch 100/100 | Train Loss: 0.0233 | Train Acc: 100.00%
+2025-05-19 11:16:50 [INFO] Validation Acc: 96.81%
+
